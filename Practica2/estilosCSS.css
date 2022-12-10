@@ -1,0 +1,19 @@
+body{
+    background-image:url(./img/portada.gif);
+    background-size: 100% auto;
+    height: 100%;
+ 
+    }
+h1{
+    color: #fff;
+}
+.estilos{
+  padding-top: 20%;
+  text-align: center;
+}
+.boton{
+background-color: bisque;
+}
+.sombras{
+    box-shadow: #fff 1px 0px 10px 8px;
+}
